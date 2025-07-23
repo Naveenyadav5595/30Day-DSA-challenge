@@ -1,24 +1,26 @@
 # 🚀 30-Day DSA Challenge
 
 Welcome to my 30-day Data Structures and Algorithms journey!  
-I am solving one or more problems every day to strengthen my concepts and improve consistency.
+I'm solving problems every day to strengthen my concepts and build consistency.
 
 ---
 
 ## 📅 Progress Tracker
 
-| Day | Problems Solved | Topics Covered |
-|-----|------------------|----------------|
-| Day 1 | ✅ 1.cpp, 2.cpp | Sliding Window |
-| Day 2 | 🔒 Coming Soon | - |
-| ... | ... | ... |
+| Day   | Problems Solved     | Topics Covered    |
+|-------|----------------------|-------------------|
+| Day 1 | ✅ 1.cpp, 2.cpp       | Sliding Window    |
+| Day 2 | 🔒 Coming Soon        | -                 |
+| ...   | ...                  | ...               |
 
 ---
 
 ## 🧠 LeetCode Progress
 
-- 🔥 Streak: [![LeetCode Streak](https://leetcard.jacoblin.cool/Naveenyadav5595?theme=dark&font=Baloo+Bhai&extension=activity)](https://leetcode.com/Naveenyadav5595/)
-- 🧮 Questions Solved:  
+- 🔥 Streak  
+  [![LeetCode Streak](https://leetcard.jacoblin.cool/Naveenyadav5595?theme=dark&font=Baloo+Bhai&extension=activity)](https://leetcode.com/Naveenyadav5595/)
+
+- 🧮 Total Questions Solved  
   ![LeetCode Stats](https://leetcard.jacoblin.cool/Naveenyadav5595?theme=dark&font=Baloo+Bhai&animation=true)
 
 ---
@@ -33,20 +35,23 @@ I am solving one or more problems every day to strengthen my concepts and improv
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naveenyadav5595&show_icons=true&theme=radical&hide=issues&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenyadav5595&theme=radical&layout=compact&langs_count=6&hide_progress=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenyadav5595&theme=radical&layout=compact&langs_count=6&hide_progress=true)
 
 ---
 
-## 📌 Languages Used
+## 💻 Languages & Concepts Used
 
 - C++
-- STL
-- DSA concepts (Sliding Window, Heap, Two Pointers, etc.)
+- STL (Standard Template Library)
+- DSA Techniques: Sliding Window, Heaps, Two Pointers, Greedy, etc.
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Connect with Me
 
-- 📧 Email: pkyy8215@gmail.com
+- 📧 Email: [pkyy8215@gmail.com](mailto:pkyy8215@gmail.com)
+- 💼 LinkedIn: [Naveen Kumar](https://www.linkedin.com/in/naveenkumar5595/)
 - 💻 GitHub: [Naveenyadav5595](https://github.com/Naveenyadav5595)
-- 💼 LeetCode: [Naveenyadav5595](https://leetcode.com/Naveenyadav5595/)
+- 👨‍💻 LeetCode: [Naveenyadav5595](https://leetcode.com/Naveenyadav5595/)
+
+---

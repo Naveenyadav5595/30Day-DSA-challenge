@@ -8,12 +8,11 @@ I'm solving problems every day to strengthen my concepts and build consistency.
 ## 📅 Progress Tracker
 
 | Day   | Problems Solved     | Topics Covered    |
-|-------|----------------------|-------------------|
-| Day 1 | ✅ 1.cpp, 2.cpp       | Sliding Window    |
-| Day 2 | 🔒 Coming Soon        | -                 |
-| ...   | ...                  | ...               |
-
----
+|-------|---------------------|------------------- |
+| Day 1 | ✅ 1.cpp, 2.cpp     | Sliding Window    |
+| Day 2 | ✅ 1.cpp, 2.cpp     | HEAPS+ Greedy     |
+        | ✅ 3.cpp, 4.cpp     |                   |
+        
 
 ## 🧠 LeetCode Progress
 

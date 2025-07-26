@@ -1,9 +1,9 @@
 # 🚀 30-Day DSA Challenge
 
-![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=F77F00&center=true&vCenter=true&width=600&lines=Welcome+to+my+30-Day+DSA+Challenge!;Consistent+coding+leads+to+strong+DSA+skills!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=F77F00&center=true&vCenter=true&width=600&lines=Welcome+to+my+30-Day+DSA+Challenge!;Consistent+coding+leads+to+strong+DSA+skills!)
 
 Welcome to my 30-day journey to master **Data Structures and Algorithms**!  
-📈 I’m solving problems daily on LeetCode and pushing code to GitHub for consistency and learning.
+📈 I'm solving problems daily on LeetCode and pushing clean, structured solutions to GitHub for consistency and growth.
 
 ---
 
@@ -17,7 +17,7 @@ Welcome to my 30-day journey to master **Data Structures and Algorithms**!
 | Day 4 | ✅ 1.cpp, 2.cpp, 3.cpp                    | Binary Tree              |
 | ...   | 🚧 Coming soon...                         |                          |
 
-> 📌 You can find solutions for each day in the respective `DAYX/` folders.
+> 📌 You'll find solutions inside their respective `DAYX/` folders.
 
 ---
 
@@ -66,22 +66,23 @@ Welcome to my 30-day journey to master **Data Structures and Algorithms**!
 
 ---
 
-## 📂 Folder Structure
-30Day-DSA-challenge/
-│
-├── DAY1/
-│ ├── 1.cpp
-│ └── 2.cpp
-│
-├── DAY2/
-│ ├── 1.cpp
-│ └── ...
-│
-├── README.md
-
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naveenkumar5595/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Naveenyadav5595)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/Naveenyadav5595/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pkyy8215@gmail.com)
+<p align="center">
+  <a href="mailto:pkyy8215@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/naveenkumar5595/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Naveenyadav5595" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://leetcode.com/Naveenyadav5595/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+</p>
+
+---
+
+> ✨ Let’s grow one problem at a time. Stay consistent. Stay curious. 💪

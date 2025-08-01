@@ -7,20 +7,6 @@ Welcome to my 30-day journey to master **Data Structures and Algorithms**!
 
 ---
 
-## 📅 Progress Tracker
-
-| Day   |              Problems Solved             | Topics Covered           |
-|-------|------------------------------------------|--------------------------|
-| Day 1 | ✅ 1.cpp, 2.cpp                           | Sliding Window           |
-| Day 2 | ✅ 1.cpp, 2.cpp, 3.cpp, 4.cpp, 5.cpp      | Heaps + Greedy           |
-| Day 3 | ✅ 1.cpp, 2.cpp, 3.cpp                    | Binary Search + Prefix   |
-| Day 4 | ✅ 1.cpp, 2.cpp, 3.cpp                    | Binary Tree              |
-| ...   | 🚧 Coming soon...                         |                          |
-
-> 📌 You'll find solutions inside their respective `DAYX/` folders.
-
----
-
 ## 🧠 Auto-Updating LeetCode Stats
 
 ### 🔥 LeetCode Streak
